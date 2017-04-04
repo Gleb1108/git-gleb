@@ -1,4 +1,4 @@
-print("wellcome and hi verybody")
-print("new feature")
-print("hello gyus")
-print("hello dear friend")
+print("wellcome and hi verybody;")
+print("new feature;")
+print("hello gyus;")
+print("hello dear friend;")
