@@ -1,2 +1,2 @@
-print("wellcome and hi verybody")
-print("new feature")
+print("wellcome and hi verybody;")
+print("new feature;")
